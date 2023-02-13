@@ -3,8 +3,10 @@
   <a href="https://twitter.com/HsinchoH">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+  
   ![](https://visitor-badge.glitch.me/badge?page_id=xinzhuohkust.xinzhuohkust)
-  <a href="https://wakatime.com/@xinzhuohkust"><img src="[https://wakatime.com/badge/user/938325ad-aa1b-4e8a-8efd-04fff7660bd5.svg](https://wakatime.com/badge/user/82e5598e-6231-41f8-900d-3972a4ed80ac.svg)" alt="Total time coded since Feb 14 2023" /></a>
+  
+  <a href="https://wakatime.com/@xinzhuohkust"><img src="https://wakatime.com/badge/user/82e5598e-6231-41f8-900d-3972a4ed80ac.svg" alt="Total time coded since Feb 14 2023" /></a>
 </p>
 
 
@@ -20,7 +22,7 @@
 
 
 
-<br />
+
 
 
 
