@@ -17,9 +17,6 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-```text
-R   18 hrs 46 mins  ██████████████▒░░░░░░░░░░   57.71 %
-```
 <!--END_SECTION:waka-->
 
 🚧 **my todoist stats:**
