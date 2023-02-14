@@ -23,7 +23,9 @@
 <code><img height="32" src="https://github.com/quarto-dev/quarto-r/blob/main/man/figures/quarto.png"></code>
 
 ---
+    
 <!--START_SECTION:waka-->
+    
 <!--END_SECTION:waka-->
 
 **🐱 My GitHub Data** 
