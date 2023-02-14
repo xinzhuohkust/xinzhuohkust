@@ -24,6 +24,7 @@
 
 ---
 <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 **🐱 My GitHub Data** 
 
@@ -39,9 +40,3 @@
 
 
 **I Mostly Code in R** 
-
-
-
-
-<!--END_SECTION:waka-->
-
