@@ -20,7 +20,7 @@
 
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="36" src="https://github.com/quarto-dev/quarto-r/blob/main/man/figures/quarto.png"></code>
+<code><img height="32" src="https://github.com/quarto-dev/quarto-r/blob/main/man/figures/quarto.png"></code>
 
 ---
 <!--START_SECTION:waka-->
@@ -32,66 +32,21 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 36 Contributions in the Year 2023
- > 
-> 📦 182.5 kB Used in GitHub's Storage 
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 23 Private Repositories  
- > 
+
 **I'm an Night 🦉** 
 
-```text
-🌞 Morning      120 commits       ███░░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-🌆 Daytime      299 commits       █████████░░░░░░░░░░░░░░░░   38.33 % 
-🌃 Evening      245 commits       ███████░░░░░░░░░░░░░░░░░░   31.41 % 
-🌙 Night        116 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.87 % 
 
-```
 📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday         103 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Tuesday         84 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Wednesday      107 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Thursday       105 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Friday          94 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Saturday       123 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Sunday         164 commits       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-
-```
 
 
 📊 **This Week I Spent My Time On** 
 
-```text
-⌚︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               32 repos            ████████████░░░░░░░░░░░░░   47.76 % 
-Vue                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-
-```
+**I Mostly Code in R** 
 
 
 
- Last Updated on 14/02/2023 01:55:22 UTC
+
 <!--END_SECTION:waka-->
 
