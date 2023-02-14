@@ -3,9 +3,6 @@
 </div>
 
 <p align='center'>
-    <a href="https://twitter.com/HsinchoH">
-  <img alt="Hsincho | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
-</a>
     <img src='https://vbr.wocr.tk/badge?page_id=xinzhuohkust&style=for-the-badge&logo=Github&color=16a085'>
     <a href='https://github.com/xinzhuohkust?tab=followers'>
         <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/xinzhuohkust?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
@@ -16,9 +13,11 @@
     </a>
     <a href='carlh.stoner@gmail.com' target='_blank'>
         <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
-    </a>
-  <a href="https://wakatime.com/@xhuangcb"><img src="https://wakatime.com/badge/user/82e5598e-6231-41f8-900d-3972a4ed80ac.svg" alt="Total time coded since Feb 14 2023" /></a>
 </p>
+
+ 
+
+  <a href="https://wakatime.com/@xhuangcb"><img src="https://wakatime.com/badge/user/82e5598e-6231-41f8-900d-3972a4ed80ac.svg" alt="Total time coded since Feb 14 2023" /></a>
 
 
 **languages and tools:**  
