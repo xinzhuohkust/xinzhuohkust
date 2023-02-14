@@ -16,10 +16,6 @@
 </p>
 <img align='right' src="https://github.com/xinzhuohkust/xinzhuohkust/blob/main/programmer.gif" width="360">
 
-
-  <a href="https://wakatime.com/@xhuangcb"><img src="https://wakatime.com/badge/user/82e5598e-6231-41f8-900d-3972a4ed80ac.svg" alt="Total time coded since Feb 14 2023" /></a>
-
-
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
