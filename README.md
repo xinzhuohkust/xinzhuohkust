@@ -1,7 +1,7 @@
 <div align='center'>
 <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=4d3900&center=true&lines=Welcome+to+my+github!;HKUSTer+Mphil+in+SOSC;Foucs+on+China;Code+for+PoliSci'/>
 </div>
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p align='center'>
     <img src='https://vbr.wocr.tk/badge?page_id=xinzhuohkust&style=for-the-badge&logo=Github&color=16a085'>
     <a href='https://github.com/xinzhuohkust?tab=followers'>
