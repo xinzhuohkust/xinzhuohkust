@@ -9,7 +9,6 @@
  <a href='https://www.linkedin.com/in/xinzhuo-huang-5161011ba/' target='_blank'>
         <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
     </a>
- <img src='https://vbr.wocr.tk/badge?page_id=xinzhuohkust&style=for-the-badge&logo=Github&color=16a085'>  
     </p>
     
 Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of Science and Technology](https://sosc.hkust.edu.hk/node/613). I hold a MSc degree in China Studies following the completion of a Bachelor's degree in Political Science and Law from East China University of Political Science and Law. My research endeavors center on the field of Chinese government and politics, which I approach through the utilization of `R` and `Python` for data analysis. My research methodology primarily involves the implementation of text analysis with machine learning.
