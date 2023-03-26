@@ -29,19 +29,19 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 80 Contributions in the Year 2023
+> 🏆 81 Contributions in the Year 2023
  > 
 > 📦 42.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
@@ -74,15 +74,15 @@ Sunday           3 commits       ░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Quarto                   13 hrs 8 mins       ████████████████░░░░░░░░░   64.55 % 
-Markdown                 2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-R                        2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Other                    1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Python                   41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Markdown                 2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+Other                    1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+R                        1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Quarto                   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Python                   45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 56 mins      ██████████████████████░░░   88.14 % 
-Obsidian                 2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+VS Code                  5 hrs 32 mins       ██████████████████░░░░░░░   72.46 % 
+Obsidian                 2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.54 % 
 
 ```
 
@@ -97,7 +97,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2023 16:16:00 UTC
+ Last Updated on 26/03/2023 18:15:28 UTC
 <!--END_SECTION:waka-->
     
     
