@@ -9,7 +9,7 @@
  <a href='https://www.linkedin.com/in/xinzhuo-huang-5161011ba/' target='_blank'>
         <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
     </a>
- <a href='https://www.linkedin.com/in/xinzhuo-huang-5161011ba/' target='_blank'>
+ <a href='https://twitter.com/HsinchoH' target='_blank'>
         <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'/>
     </a>
     </p>
