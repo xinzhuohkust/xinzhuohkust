@@ -4,8 +4,8 @@
 
 
 <p align='center'>
-<a href='mailto:carlh.stoner@gmail.com' target='_blank'>
-        <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
+<a href='mailto:' target='_blank'>
+        <img src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white'/></a>
  <a href='https://www.linkedin.com/in/xinzhuo-huang-5161011ba/' target='_blank'>
         <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
     </a>
