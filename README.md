@@ -30,7 +30,7 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
@@ -98,7 +98,7 @@ JavaScript               2 repos             █████░░░░░░�
 
 
 
- Last Updated on 05/04/2023 20:14:34 UTC
+ Last Updated on 05/04/2023 22:12:04 UTC
 <!--END_SECTION:waka-->
     
     
