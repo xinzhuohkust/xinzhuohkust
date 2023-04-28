@@ -30,7 +30,7 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-424%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -38,7 +38,7 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
 
 > 🏆 116 Contributions in the Year 2023
  > 
-> 📦 49.5 kB Used in GitHub's Storage 
+> 📦 45.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,7 +98,7 @@ JavaScript               2 repos             █████░░░░░░�
 
 
 
- Last Updated on 28/04/2023 10:13:58 UTC
+ Last Updated on 28/04/2023 12:23:19 UTC
 <!--END_SECTION:waka-->
     
     
