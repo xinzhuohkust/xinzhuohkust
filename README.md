@@ -38,7 +38,7 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
 
 > 🏆 116 Contributions in the Year 2023
  > 
-> 📦 52.1 kB Used in GitHub's Storage 
+> 📦 52.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,7 +98,7 @@ JavaScript               2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 08/05/2023 18:15:40 UTC
+ Last Updated on 08/05/2023 20:12:54 UTC
 <!--END_SECTION:waka-->
     
     
