@@ -29,7 +29,7 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
 ---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-468%20hrs%2035%20mins-blue)
-
+[![Page Views Count](https://badges.toozhao.com/badges/01H062BTKXCPXTM256XJB205B8/blue.svg)](https://badges.toozhao.com/stats/01H062BTKXCPXTM256XJB205B8 "Get your own page views count badge on badges.toozhao.com")
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
 **🐱 My GitHub Data** 
