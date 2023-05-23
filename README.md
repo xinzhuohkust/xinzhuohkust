@@ -28,7 +28,7 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue)
 
@@ -42,7 +42,7 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
  > 
 > 📜 21 Public Repositories 
  > 
-> 🔑 5 Private Repositories  
+> 🔑 6 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -96,7 +96,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 23/05/2023 20:13:25 UTC
+ Last Updated on 23/05/2023 22:12:20 UTC
 <!--END_SECTION:waka-->
     
     
