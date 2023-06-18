@@ -28,13 +28,13 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-638%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-629%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 340 Contributions in the Year 2023
+> 🏆 342 Contributions in the Year 2023
  > 
 > 📦 68.9 kB Used in GitHub's Storage 
  > 
@@ -47,9 +47,9 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning      132 commits       ███████░░░░░░░░░░░░░░░░░░   30.34 % 
+🌞 Morning      130 commits       ███████░░░░░░░░░░░░░░░░░░   29.89 % 
 🌆 Daytime       39 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-🌃 Evening      113 commits       ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+🌃 Evening      115 commits       ██████░░░░░░░░░░░░░░░░░░░   26.44 % 
 🌙 Night        151 commits       ████████░░░░░░░░░░░░░░░░░   34.71 % 
 
 ```
@@ -58,11 +58,11 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
 ```text
 Monday          40 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
 Tuesday        155 commits       █████████░░░░░░░░░░░░░░░░   35.63 % 
-Wednesday       96 commits       █████░░░░░░░░░░░░░░░░░░░░   22.07 % 
+Wednesday       94 commits       █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
 Thursday        23 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 Friday          47 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
 Saturday        41 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Sunday          33 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Sunday          35 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 
 ```
 
@@ -96,7 +96,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 18/06/2023 14:11:03 UTC
+ Last Updated on 18/06/2023 16:15:14 UTC
 <!--END_SECTION:waka-->
     
     
