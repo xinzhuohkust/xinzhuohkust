@@ -28,15 +28,15 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-644%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 344 Contributions in the Year 2023
+> 🏆 348 Contributions in the Year 2023
  > 
-> 📦 69.5 kB Used in GitHub's Storage 
+> 📦 70.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,8 +47,8 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning      128 commits       ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-🌆 Daytime       39 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+🌞 Morning      129 commits       ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+🌆 Daytime       38 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
 🌃 Evening      115 commits       ██████░░░░░░░░░░░░░░░░░░░   26.44 % 
 🌙 Night        153 commits       ████████░░░░░░░░░░░░░░░░░   35.17 % 
 
@@ -56,9 +56,9 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday          42 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Tuesday        155 commits       █████████░░░░░░░░░░░░░░░░   35.63 % 
-Wednesday       92 commits       █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+Monday          46 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Tuesday        154 commits       ████████░░░░░░░░░░░░░░░░░   35.40 % 
+Wednesday       89 commits       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
 Thursday        23 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 Friday          47 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
 Saturday        41 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
@@ -96,7 +96,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 18/06/2023 22:11:37 UTC
+ Last Updated on 19/06/2023 01:09:29 UTC
 <!--END_SECTION:waka-->
     
     
