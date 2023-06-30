@@ -28,13 +28,13 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-670%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-671%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 378 Contributions in the Year 2023
+> 🏆 382 Contributions in the Year 2023
  > 
 > 📦 89.3 kB Used in GitHub's Storage 
  > 
@@ -47,8 +47,8 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning      139 commits       ███████░░░░░░░░░░░░░░░░░░   30.02 % 
-🌆 Daytime       43 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+🌞 Morning      143 commits       ███████░░░░░░░░░░░░░░░░░░   30.89 % 
+🌆 Daytime       39 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 🌃 Evening      124 commits       ██████░░░░░░░░░░░░░░░░░░░   26.78 % 
 🌙 Night        157 commits       ████████░░░░░░░░░░░░░░░░░   33.91 % 
 
@@ -57,10 +57,10 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
 
 ```text
 Monday          46 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Tuesday        156 commits       ████████░░░░░░░░░░░░░░░░░   33.69 % 
+Tuesday        152 commits       ████████░░░░░░░░░░░░░░░░░   32.83 % 
 Wednesday       95 commits       █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
 Thursday        39 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Friday          49 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Friday          53 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
 Saturday        43 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 Sunday          35 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 
@@ -96,7 +96,7 @@ JavaScript               3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 29/06/2023 22:12:58 UTC
+ Last Updated on 30/06/2023 01:14:01 UTC
 <!--END_SECTION:waka-->
     
     
