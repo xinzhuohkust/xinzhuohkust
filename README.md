@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=4d3900&center=true&lines=HKUST+Mphil+in+SOSC;Focus+on+China;Code+for+PoliSci'/>
+<img src='https://readme-typing-svg.herokuapp.com?font=Lora&color=4d3900&center=true&lines=HKUST+Mphil+in+SOSC;Focus+on+China;Code+for+PoliSci'/>
 </div>
 
 <p align='center'>
