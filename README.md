@@ -28,7 +28,7 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-764%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-769%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
@@ -36,7 +36,7 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
 
 > 🏆 702 Contributions in the Year 2023
  > 
-> 📦 121.6 kB Used in GitHub's Storage 
+> 📦 121.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,15 +73,14 @@ Sunday          64 commits       ██░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-R                        15 hrs 43 mins      ███████████████░░░░░░░░░░   62.31 % 
-Quarto                   5 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Other                    2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Python                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+R                        16 hrs 20 mins      ███████████████████░░░░░░   77.47 % 
+Quarto                   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Python                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 56 mins      ████████████████████████░   98.77 % 
-Obsidian                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+VS Code                  21 hrs 5 mins       █████████████████████████   100.00 % 
 
 ```
 
@@ -97,7 +96,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2023 01:23:12 UTC
+ Last Updated on 05/08/2023 01:19:28 UTC
 <!--END_SECTION:waka-->
     
     
