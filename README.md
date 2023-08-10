@@ -28,15 +28,15 @@ Hi, I'm Xinzhuo. I am currently a MPhil student at the [Hong Kong University of 
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-792%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 709 Contributions in the Year 2023
  > 
-> 📦 122.4 kB Used in GitHub's Storage 
+> 📦 122.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,14 +73,14 @@ Sunday          64 commits       ██░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-R                        32 hrs              ██████████████████████░░░   88.77 % 
-Quarto                   2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Other                    45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Python                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+R                        33 hrs 12 mins      ████████████████████░░░░░   82.06 % 
+Quarto                   3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Other                    2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Python                   58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 3 mins       █████████████████████████   100.00 % 
+VS Code                  40 hrs 28 mins      █████████████████████████   100.00 % 
 
 ```
 
@@ -96,7 +96,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2023 01:23:47 UTC
+ Last Updated on 10/08/2023 01:23:50 UTC
 <!--END_SECTION:waka-->
     
     
