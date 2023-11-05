@@ -29,15 +29,15 @@ Hi, I'm Xinzhuo. I am currently an MPhil student at the [Hong Kong University of
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C107%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,115 Contributions in the Year 2023
+> 🏆 1,116 Contributions in the Year 2023
  > 
-> 📦 326.6 kB Used in GitHub's Storage 
+> 📦 327.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,8 +49,8 @@ Hi, I'm Xinzhuo. I am currently an MPhil student at the [Hong Kong University of
 
 ```text
 🌞 Morning      249 commits       ███████░░░░░░░░░░░░░░░░░░   30.93 % 
-🌆 Daytime      139 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-🌃 Evening      185 commits       █████░░░░░░░░░░░░░░░░░░░░   22.98 % 
+🌆 Daytime      140 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+🌃 Evening      184 commits       █████░░░░░░░░░░░░░░░░░░░░   22.86 % 
 🌙 Night        232 commits       ███████░░░░░░░░░░░░░░░░░░   28.82 % 
 
 ```
@@ -58,12 +58,12 @@ Hi, I'm Xinzhuo. I am currently an MPhil student at the [Hong Kong University of
 
 ```text
 Monday         115 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Tuesday        177 commits       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Tuesday        176 commits       █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
 Wednesday      227 commits       ███████░░░░░░░░░░░░░░░░░░   28.20 % 
 Thursday        75 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 Friday          74 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
 Saturday        47 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Sunday          90 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Sunday          91 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 
 ```
 
@@ -98,7 +98,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2023 01:20:24 UTC
+ Last Updated on 05/11/2023 08:20:42 UTC
 <!--END_SECTION:waka-->
     
     
