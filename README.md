@@ -31,7 +31,7 @@ Hi, I'm Xinzhuo. I am currently an MPhil student at the [Hong Kong University of
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C386%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -74,11 +74,11 @@ Sunday         103 commits       ███░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-R                        7 mins              ████████████████████████░   99.37 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+R                        0 secs              █████████████████░░░░░░░░   67.98 % 
+Other                    0 secs              ████████░░░░░░░░░░░░░░░░░   32.02 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 ```
 
@@ -94,7 +94,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2024 16:21:47 UTC
+ Last Updated on 10/02/2024 01:11:24 UTC
 <!--END_SECTION:waka-->
     
     
