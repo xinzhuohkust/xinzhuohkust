@@ -74,11 +74,10 @@ Sunday         103 commits       ███░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-R                        0 secs              █████████████████░░░░░░░░   67.98 % 
-Other                    0 secs              ████████░░░░░░░░░░░░░░░░░   32.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 ```
 
@@ -94,7 +93,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2024 16:21:34 UTC
+ Last Updated on 11/02/2024 01:18:36 UTC
 <!--END_SECTION:waka-->
     
     
