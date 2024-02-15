@@ -37,7 +37,7 @@ Hi, I'm Xinzhuo. I am currently an MPhil student at the [Hong Kong University of
 
 > 🏆 42 Contributions in the Year 2024
  > 
-> 📦 392.0 kB Used in GitHub's Storage 
+> 📦 392.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,7 +93,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2024 16:22:30 UTC
+ Last Updated on 15/02/2024 01:13:49 UTC
 <!--END_SECTION:waka-->
     
     
