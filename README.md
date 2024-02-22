@@ -29,7 +29,7 @@ Hi, I'm Xinzhuo. I am currently an MPhil student at the [Hong Kong University of
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C435%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C423%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -37,7 +37,7 @@ Hi, I'm Xinzhuo. I am currently an MPhil student at the [Hong Kong University of
 
 > 🏆 77 Contributions in the Year 2024
  > 
-> 📦 416.6 kB Used in GitHub's Storage 
+> 📦 418.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,7 +97,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/02/2024 08:22:15 UTC
+ Last Updated on 22/02/2024 16:22:53 UTC
 <!--END_SECTION:waka-->
     
     
