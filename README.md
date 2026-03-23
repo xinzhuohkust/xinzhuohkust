@@ -31,11 +31,11 @@ Hi, I'm Xinzhuo. I am currently an MPhil student at the [Hong Kong University of
 <!--START_SECTION:waka-->
 
 ```txt
-R            20 hrs 11 mins        ███████████████████████▒░   93.75 %
-Python       36 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-JSON         27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Markdown     7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-BibTeX       4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+R            21 hrs 21 mins        ███████████████████████▒░   93.45 %
+Python       36 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+JSON         27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Batchfile    15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Markdown     7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
