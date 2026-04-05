@@ -18,7 +18,7 @@
 
 Hi, I'm **Xinzhuo Huang**. I am a research student in Social Science at the [Hong Kong University of Science and Technology](https://sosc.hkust.edu.hk/node/613). My research focuses on **Chinese government and politics**. I use `R`, `DuckDB` and `Python` for data engineering and computational research.
 
-<img align="right" src="https://github.com/xinzhuohkust/xinzhuohkust/blob/main/programmer.gif" width="590">
+<img align="right" src="https://github.com/xinzhuohkust/xinzhuohkust/blob/main/programmer.gif" width="490">
 
 ### Languages and Tools
 
