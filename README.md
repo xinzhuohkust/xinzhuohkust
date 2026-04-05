@@ -27,6 +27,77 @@ Hi, I'm **Xinzhuo Huang**. I am a research student in Social Science at the [Hon
 <code><img height="32" src="https://github.com/quarto-dev/quarto-r/blob/main/man/figures/quarto.png"></code>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C649%20hrs%201%20min-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.19%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 537.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 7 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 47 Public Repositories 
+ > 
+> 🔑 28 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                464 commits         ████████░░░░░░░░░░░░░░░░░   31.85 % 
+🌆 Daytime                210 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+🌃 Evening                353 commits         ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+🌙 Night                  430 commits         ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Tuesday                  276 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Wednesday                336 commits         ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+Thursday                 212 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Friday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Saturday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Sunday                   158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+R                        24 hrs 58 mins      █████████████████████████   99.00 % 
+Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+BibTeX                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+
+🔥 Editors: 
+VS Code                  25 hrs 13 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in R** 
+
+```text
+R                        16 repos            █████████░░░░░░░░░░░░░░░░   36.36 % 
+HTML                     14 repos            ████████░░░░░░░░░░░░░░░░░   31.82 % 
+JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/xinzhuohkust/xinzhuohkust/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/04/2026 23:15:06 UTC
 <!--END_SECTION:waka-->
     
     
