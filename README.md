@@ -16,7 +16,7 @@
 
 ### About me
 
-Hi, I'm **Xinzhuo Huang**. I am a research student in Social Science at the [Hong Kong University of Science and Technology](https://sosc.hkust.edu.hk/node/613). My research focuses on **Chinese government and politics**, with particular interests in **data engineering**, **text analysis**, and **machine learning**. I use `R` and `Python` for computational social science research.
+Hi, I'm **Xinzhuo Huang**. I am a research student in Social Science at the [Hong Kong University of Science and Technology](https://sosc.hkust.edu.hk/node/613). My research focuses on **Chinese government and politics**. I use `R`, `DuckDB` and `Python` for Data Engineering and Machine Learning.
 
 <img align="right" src="https://github.com/xinzhuohkust/xinzhuohkust/blob/main/programmer.gif" width="590">
 
@@ -25,7 +25,9 @@ Hi, I'm **Xinzhuo Huang**. I am a research student in Social Science at the [Hon
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="32" src="https://github.com/quarto-dev/quarto-r/blob/main/man/figures/quarto.png"></code>
-    
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
     
     
     
