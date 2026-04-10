@@ -27,7 +27,7 @@ Hi, I'm **Xinzhuo Huang**. I am a research student in Social Science at the [Hon
 <code><img height="32" src="https://github.com/quarto-dev/quarto-r/blob/main/man/figures/quarto.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C668%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C669%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-88-blue?style=flat)
 
@@ -70,14 +70,14 @@ Sunday                   158 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-R                        28 hrs 38 mins      ████████████████████████░   97.27 % 
-Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+R                        29 hrs 4 mins       ████████████████████████░   97.29 % 
+Markdown                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 26 mins      █████████████████████████   100.00 % 
+VS Code                  29 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -97,7 +97,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinzhuohkust/xinzhuohkust/main/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2026 03:02:30 UTC
+ Last Updated on 10/04/2026 03:35:14 UTC
 <!--END_SECTION:waka-->
     
     
