@@ -16,7 +16,7 @@
 
 ### About me
 
-Hi, I'm Xinzhuo Huang, a PhD student in Social Science at the Hong Kong University of Science and Technology (HKUST). My research focuses on Chinese government and politics. Before joining HKUST, I received my LL.B. from the East China University of Political Science and Law （华东政法大学）. I use R, DuckDB, and Python for data engineering and computational social science research.
+Hi, I'm Xinzhuo Huang, a PhD student in Social Science at the Hong Kong University of Science and Technology (HKUST). My research focuses on Chinese government and politics. Before HKUST, I received my LL.B. from the East China University of Political Science and Law. I use R, DuckDB, and Python for data engineering and computational social science research.
 
 <img align="right" src="https://github.com/xinzhuohkust/xinzhuohkust/blob/main/programmer.gif" width="490">
 
