@@ -27,7 +27,7 @@ Hi, I'm Xinzhuo Huang, a PhD student in Social Science at the Hong Kong Universi
 <code><img height="32" src="https://github.com/quarto-dev/quarto-r/blob/main/man/figures/quarto.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C852%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C853%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -35,7 +35,7 @@ Hi, I'm Xinzhuo Huang, a PhD student in Social Science at the Hong Kong Universi
 
 **🐱 My GitHub Data** 
 
-> 📦 538.0 kB Used in GitHub's Storage 
+> 📦 537.9 kB Used in GitHub's Storage 
  > 
 > 🏆 10 Contributions in the Year 2026
  > 
@@ -70,14 +70,14 @@ Sunday                   158 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-R                        23 hrs 15 mins      ██████████████████░░░░░░░   73.57 % 
-Python                   7 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-S                        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+R                        25 hrs 59 mins      ███████████████████░░░░░░   75.95 % 
+Python                   7 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+S                        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 36 mins      █████████████████████████   100.00 % 
+VS Code                  34 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -97,7 +97,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinzhuohkust/xinzhuohkust/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2026 04:55:46 UTC
+ Last Updated on 13/06/2026 04:43:57 UTC
 <!--END_SECTION:waka-->
     
     
