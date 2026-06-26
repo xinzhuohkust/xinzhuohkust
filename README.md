@@ -27,7 +27,7 @@ Hi, I'm Xinzhuo Huang, a PhD student in Social Science at the Hong Kong Universi
 <code><img height="32" src="https://github.com/quarto-dev/quarto-r/blob/main/man/figures/quarto.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C906%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C908%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -70,14 +70,14 @@ Sunday                   158 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-R                        17 hrs 10 mins      ████████████████░░░░░░░░░   64.85 % 
-Python                   5 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Markdown                 2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+R                        19 hrs 47 mins      ██████████████████░░░░░░░   70.60 % 
+Python                   5 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Markdown                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+YAML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 28 mins      █████████████████████████   100.00 % 
+VS Code                  28 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -97,7 +97,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinzhuohkust/xinzhuohkust/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2026 04:20:05 UTC
+ Last Updated on 26/06/2026 04:26:17 UTC
 <!--END_SECTION:waka-->
     
     
