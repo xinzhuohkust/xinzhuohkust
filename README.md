@@ -27,7 +27,9 @@ Hi, I'm Xinzhuo Huang, a PhD student in Social Science at the Hong Kong Universi
 <code><img height="32" src="https://github.com/quarto-dev/quarto-r/blob/main/man/figures/quarto.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C027%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C827%20hrs%2023%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -70,15 +72,38 @@ Sunday                   158 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-R                        23 hrs 34 mins      █████████████████░░░░░░░░   68.32 % 
-Markdown                 5 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Python                   3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Other                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+R                        29 hrs 27 mins      ██████████████████░░░░░░░   71.66 % 
+Markdown                 6 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Python                   3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Other                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Text                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 2 mins       █████████████████████████   98.64 % 
-Copilot CLI              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+VS Code                  40 hrs 38 mins      █████████████████████████   98.86 % 
+Copilot CLI              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 10 hrs 16 mins (24.99%)
+
+✍️ 14,471 lines written by AI, 6,138 lines written by hand (70.22% AI-written)
+
+🔤 248,891,976 Input Tokens, 1,579,148 Output Tokens
+
+💵 $1212.74 Estimated AI Cost This Week
+
+🧠 32 AI Sessions, 263 AI Prompts
+
+GPT                      14,559 lines        █████████████████████████   100.00 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 70.22% of written lines came from AI
+📚 Verbose Prompter — average 6,115 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 41.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in R** 
@@ -98,7 +123,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinzhuohkust/xinzhuohkust/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 03:56:24 UTC
+ Last Updated on 28/07/2026 03:27:13 UTC
 <!--END_SECTION:waka-->
     
     
