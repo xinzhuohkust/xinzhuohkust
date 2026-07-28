@@ -21,6 +21,6 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_COMMIT_STATS: "False"
-          SHOW_AI_CODE_TIME: "True"
-          SHOW_AI_CODING: "True"
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
           
