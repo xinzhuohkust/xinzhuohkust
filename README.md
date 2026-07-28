@@ -29,8 +29,6 @@ Hi, I'm Xinzhuo Huang, a PhD student in Social Science at the Hong Kong Universi
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C827%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2031%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.19%20million%20lines%20of%20code-blue?style=flat)
@@ -39,7 +37,7 @@ Hi, I'm Xinzhuo Huang, a PhD student in Social Science at the Hong Kong Universi
 
 > 📦 538.0 kB Used in GitHub's Storage 
  > 
-> 🏆 11 Contributions in the Year 2026
+> 🏆 12 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,21 +48,21 @@ Hi, I'm Xinzhuo Huang, a PhD student in Social Science at the Hong Kong Universi
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                465 commits         ████████░░░░░░░░░░░░░░░░░   31.83 % 
-🌆 Daytime                211 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-🌃 Evening                355 commits         ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-🌙 Night                  430 commits         ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+🌞 Morning                465 commits         ████████░░░░░░░░░░░░░░░░░   31.76 % 
+🌆 Daytime                211 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+🌃 Evening                358 commits         ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+🌙 Night                  430 commits         ███████░░░░░░░░░░░░░░░░░░   29.37 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Tuesday                  276 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Wednesday                336 commits         ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-Thursday                 212 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Friday                   174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Saturday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Sunday                   158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Monday                   204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Tuesday                  279 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Wednesday                336 commits         ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+Thursday                 212 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Friday                   174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Saturday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Sunday                   158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 ```
 
 
@@ -81,29 +79,6 @@ Text                     25 mins             ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  40 hrs 38 mins      █████████████████████████   98.86 % 
 Copilot CLI              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 10 hrs 16 mins (24.99%)
-
-✍️ 14,471 lines written by AI, 6,138 lines written by hand (70.22% AI-written)
-
-🔤 248,891,976 Input Tokens, 1,579,148 Output Tokens
-
-💵 $1212.74 Estimated AI Cost This Week
-
-🧠 32 AI Sessions, 263 AI Prompts
-
-GPT                      14,559 lines        █████████████████████████   100.00 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 70.22% of written lines came from AI
-📚 Verbose Prompter — average 6,115 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 41.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in R** 
@@ -123,7 +98,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinzhuohkust/xinzhuohkust/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 03:27:13 UTC
+ Last Updated on 28/07/2026 13:30:10 UTC
 <!--END_SECTION:waka-->
     
     
