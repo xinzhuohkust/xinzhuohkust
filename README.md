@@ -27,7 +27,7 @@ Hi, I'm Xinzhuo Huang, a PhD student in Social Science at the Hong Kong Universi
 <code><img height="32" src="https://github.com/quarto-dev/quarto-r/blob/main/man/figures/quarto.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C827%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C830%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -37,7 +37,7 @@ Hi, I'm Xinzhuo Huang, a PhD student in Social Science at the Hong Kong Universi
 
 > 📦 538.0 kB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2026
+> 🏆 13 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,15 +70,15 @@ Sunday                   158 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-R                        29 hrs 27 mins      ██████████████████░░░░░░░   71.66 % 
-Markdown                 6 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Python                   3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Other                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Text                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+R                        28 hrs 26 mins      ██████████████████░░░░░░░   72.80 % 
+Markdown                 5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Python                   3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Text                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-VS Code                  40 hrs 38 mins      █████████████████████████   98.86 % 
-Copilot CLI              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+VS Code                  38 hrs 36 mins      █████████████████████████   98.80 % 
+Copilot CLI              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 
 **I Mostly Code in R** 
@@ -98,7 +98,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinzhuohkust/xinzhuohkust/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 13:30:10 UTC
+ Last Updated on 29/07/2026 03:29:04 UTC
 <!--END_SECTION:waka-->
     
     
