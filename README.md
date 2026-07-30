@@ -27,9 +27,9 @@ Hi, I'm Xinzhuo Huang, a PhD student in Social Science at the Hong Kong Universi
 <code><img height="32" src="https://github.com/quarto-dev/quarto-r/blob/main/man/figures/quarto.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C830%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C843%20hrs%2011%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.19%20million%20lines%20of%20code-blue?style=flat)
 
@@ -70,15 +70,15 @@ Sunday                   158 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-R                        28 hrs 26 mins      ██████████████████░░░░░░░   72.80 % 
-Markdown                 5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Python                   3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Text                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+R                        35 hrs 45 mins      ████████████████████░░░░░   79.69 % 
+Markdown                 6 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Other                    52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Python                   46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Text                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔥 Editors: 
-VS Code                  38 hrs 36 mins      █████████████████████████   98.80 % 
-Copilot CLI              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+VS Code                  44 hrs 24 mins      █████████████████████████   98.95 % 
+Copilot CLI              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 
 **I Mostly Code in R** 
@@ -98,7 +98,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinzhuohkust/xinzhuohkust/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 03:29:04 UTC
+ Last Updated on 30/07/2026 03:02:35 UTC
 <!--END_SECTION:waka-->
     
     
