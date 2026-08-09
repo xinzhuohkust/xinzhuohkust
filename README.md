@@ -27,7 +27,7 @@ Hi, I'm Xinzhuo Huang, a PhD student in Social Science at the Hong Kong Universi
 <code><img height="32" src="https://github.com/quarto-dev/quarto-r/blob/main/man/figures/quarto.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C896%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C906%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue?style=flat)
 
@@ -70,15 +70,14 @@ Sunday                   158 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-R                        42 hrs 15 mins      █████████████████████░░░░   83.37 % 
-Python                   4 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Markdown                 2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-JSON                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Batchfile                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+R                        46 hrs 7 mins       █████████████████████░░░░   85.25 % 
+Python                   4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Markdown                 2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+JSON                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  50 hrs 37 mins      █████████████████████████   99.88 % 
-Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+VS Code                  54 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -98,7 +97,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinzhuohkust/xinzhuohkust/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 02:12:20 UTC
+ Last Updated on 09/08/2026 02:21:51 UTC
 <!--END_SECTION:waka-->
     
     
