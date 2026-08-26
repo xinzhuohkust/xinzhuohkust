@@ -27,7 +27,7 @@ Hi, I'm Xinzhuo Huang, a PhD student in Social Science at the Hong Kong Universi
 <code><img height="32" src="https://github.com/quarto-dev/quarto-r/blob/main/man/figures/quarto.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C052%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C060%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -70,16 +70,16 @@ Sunday                   158 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-R                        21 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   37.02 % 
-Markdown                 13 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-SQL                      9 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-PowerShell               5 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Python                   3 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+R                        18 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   34.44 % 
+Markdown                 11 hrs 20 mins      █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+SQL                      9 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Other                    4 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+PowerShell               4 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 
 🔥 Editors: 
-Codex Vscode             51 hrs 11 mins      ██████████████████████░░░   87.12 % 
-VS Code                  7 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Codex CLI                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Codex Vscode             46 hrs 7 mins       █████████████████████░░░░   85.68 % 
+VS Code                  7 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Codex CLI                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 **I Mostly Code in R** 
@@ -99,7 +99,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinzhuohkust/xinzhuohkust/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 01:48:46 UTC
+ Last Updated on 26/08/2026 01:54:18 UTC
 <!--END_SECTION:waka-->
     
     
