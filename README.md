@@ -35,7 +35,7 @@ Hi, I'm Xinzhuo Huang, a PhD student in Social Science at the Hong Kong Universi
 
 **🐱 My GitHub Data** 
 
-> 📦 538.0 kB Used in GitHub's Storage 
+> 📦 538.1 kB Used in GitHub's Storage 
  > 
 > 🏆 13 Contributions in the Year 2026
  > 
@@ -70,15 +70,15 @@ Sunday                   158 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 22 hrs 45 mins      ████████░░░░░░░░░░░░░░░░░   33.82 % 
-R                        18 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   27.25 % 
-Python                   9 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-SQL                      7 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-PowerShell               5 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Markdown                 19 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   34.23 % 
+R                        16 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+Python                   8 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+SQL                      5 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+PowerShell               3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 
 🔥 Editors: 
-Codex Vscode             57 hrs 50 mins      █████████████████████░░░░   85.98 % 
-VS Code                  9 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Codex Vscode             48 hrs 10 mins      █████████████████████░░░░   84.22 % 
+VS Code                  9 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
 ```
 
 **I Mostly Code in R** 
@@ -98,7 +98,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinzhuohkust/xinzhuohkust/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 04:22:09 UTC
+ Last Updated on 07/09/2026 04:21:23 UTC
 <!--END_SECTION:waka-->
     
     
