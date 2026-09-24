@@ -27,7 +27,7 @@ Hi, I'm Xinzhuo Huang, a PhD student in Social Science at the Hong Kong Universi
 <code><img height="32" src="https://github.com/quarto-dev/quarto-r/blob/main/man/figures/quarto.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C321%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C341%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -70,15 +70,15 @@ Sunday                   158 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   32 hrs 42 mins      ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-Markdown                 25 hrs 57 mins      ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-PowerShell               13 hrs 44 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-R                        12 hrs 20 mins      ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-SQL                      11 hrs 33 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Python                   34 hrs 41 mins      ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+Markdown                 28 hrs 26 mins      ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+PowerShell               13 hrs 14 mins      ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+R                        11 hrs 52 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+SQL                      11 hrs 32 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 
 🔥 Editors: 
-Codex Vscode             114 hrs 17 mins     ████████████████████████░   97.30 % 
-VS Code                  3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Codex Vscode             122 hrs 8 mins      ████████████████████████░   97.65 % 
+VS Code                  2 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 ```
 
 **I Mostly Code in R** 
@@ -98,7 +98,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinzhuohkust/xinzhuohkust/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 04:36:07 UTC
+ Last Updated on 24/09/2026 04:34:00 UTC
 <!--END_SECTION:waka-->
     
     
