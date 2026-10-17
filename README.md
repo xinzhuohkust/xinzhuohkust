@@ -70,15 +70,15 @@ Sunday                   158 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   23 hrs 53 mins      ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-Markdown                 17 hrs 52 mins      █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-PowerShell               12 hrs 10 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-JSON                     9 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-SQL                      9 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Python                   18 hrs 51 mins      ████████░░░░░░░░░░░░░░░░░   31.36 % 
+Markdown                 11 hrs 46 mins      █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+PowerShell               8 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+JSON                     8 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+SQL                      5 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 
 🔥 Editors: 
-Codex Vscode             81 hrs 52 mins      █████████████████████████   98.83 % 
-VS Code                  58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Codex Vscode             59 hrs 13 mins      █████████████████████████   98.53 % 
+VS Code                  53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 **I Mostly Code in R** 
@@ -98,7 +98,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinzhuohkust/xinzhuohkust/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 04:21:47 UTC
+ Last Updated on 17/10/2026 04:10:40 UTC
 <!--END_SECTION:waka-->
     
     
