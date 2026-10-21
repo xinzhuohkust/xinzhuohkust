@@ -70,15 +70,12 @@ Sunday                   158 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PowerShell               1 hr 20 mins        █████████████░░░░░░░░░░░░   53.14 % 
-R                        52 mins             █████████░░░░░░░░░░░░░░░░   34.72 % 
-Python                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+R                        44 mins             █████████████████████████   99.96 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 47 mins        ██████████████████░░░░░░░   70.99 % 
-VS Code                  43 mins             ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+VS Code                  43 mins             █████████████████████████   99.32 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 
 **I Mostly Code in R** 
@@ -98,7 +95,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinzhuohkust/xinzhuohkust/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 04:40:05 UTC
+ Last Updated on 21/10/2026 04:31:04 UTC
 <!--END_SECTION:waka-->
     
     
