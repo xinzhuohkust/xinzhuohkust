@@ -70,12 +70,10 @@ Sunday                   158 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-R                        44 mins             █████████████████████████   99.96 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+R                        0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   99.32 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Codex Vscode             0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -95,7 +93,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinzhuohkust/xinzhuohkust/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 04:31:04 UTC
+ Last Updated on 22/10/2026 04:30:33 UTC
 <!--END_SECTION:waka-->
     
     
